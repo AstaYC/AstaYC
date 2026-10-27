@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Mohamed%20Amine%20Baih&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%26%20Angular&descSize=20&descAlignY=58" width="100%" alt="Header banner"/>
 
 <a href="https://github.com/AstaYC">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=Hello+World!+%F0%9F%91%8B+I'm+Amine;Full-Stack+Developer+%E2%80%94+Java+%26+Angular+%E2%98%95;I+build+RESTful+APIs+that+scale+%F0%9F%9A%80;Ex-healthcare+student+%E2%86%92+Code+craftsman+%F0%9F%92%BB;Always+learning.+Always+shipping.+%E2%9A%A1" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=Hello+World!+%F0%9F%91%8B+I'm+Amine;Full-Stack+Developer+%E2%80%94+Java+%26+Angular+%E2%98%95;I+build+RESTful+APIs+that+scale+%F0%9F%9A%80;Code+craftsman+%26+problem+solver+%F0%9F%92%BB;Always+learning.+Always+shipping.+%E2%9A%A1" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -46,8 +46,8 @@ public class MohamedAmineBaih implements Developer {
 
     @Override
     public String funFact() {
-        return "I started in healthcare (Orthoprosthetics) — then switched to code. "
-             + "Debugging a program turned out to be a lot like fixing a puzzle. 🧩";
+        return "I treat every bug like a chess puzzle — find the pattern, "
+             + "plan a few moves ahead, and checkmate it. ♟️🧩";
     }
 
     public String lookingFor() {
@@ -169,9 +169,8 @@ Built a **web-based GIS (SIG) interface** for ASP Tan-Tan customers.
 
 ```mermaid
 timeline
-    title From healthcare to full-stack development
+    title My path to full-stack development
     2020 : Baccalaureate in Mathematical Sciences — Lycée Cady Ayad
-    2020 - 2023 : Professional Degree in Orthoprosthetics — ISPITS
     2023 : Discovered my passion for code
     2023 - Present : Full-Stack Web Development — YouCode | UM6P
     2024 : Internship at ONEE — GIS web platform
