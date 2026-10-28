@@ -1,7 +1,3 @@
-<!-- ============================================================ -->
-<!--            ✦  MOHAMED AMINE BAIH — GITHUB PROFILE  ✦          -->
-<!-- ============================================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Mohamed%20Amine%20Baih&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%26%20Angular&descSize=20&descAlignY=58" width="100%" alt="Header banner"/>
@@ -138,45 +134,7 @@ public class MohamedAmineBaih implements Developer {
 </table>
 
 <br/>
-
-## 💼 &nbsp;Experience
-
-<table>
-<tr>
-<td>
-
-### 🌍 ONEE — Full-Stack Developer Intern
-📅 `15 May 2024 → 15 July 2024`
-
-Built a **web-based GIS (SIG) interface** for ASP Tan-Tan customers.
-
-| 🛠️ Back Office | 🖥️ Front Office |
-|---|---|
-| User management & access control | Authentication (Login / Register) |
-| GIS data management | Search bar to find GIS data |
-| Admin tools to view & manage geospatial info | Interactive maps & geospatial display |
-| Registration & permissions system | Property / client details |
-
-`Laravel` `Blade` `JavaScript` `HTML` `CSS` `Bootstrap` `MySQL`
-
-</td>
-</tr>
-</table>
-
 <br/>
-
-## 🎓 &nbsp;My Journey
-
-```mermaid
-timeline
-    title My path to full-stack development
-    2020 : Baccalaureate in Mathematical Sciences — Lycée Cady Ayad
-    2023 : Discovered my passion for code
-    2023 - Present : Full-Stack Web Development — YouCode | UM6P
-    2024 : Internship at ONEE — GIS web platform
-    Now : Building APIs with Spring Boot, learning Angular, Docker & AWS
-```
-
 <br/>
 
 ## 📊 &nbsp;GitHub Stats
