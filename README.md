@@ -1,4 +1,4 @@
---> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=230&section=header&text=Mohamed%20Amine%20Baih&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20-%20Java%20and%20Angular&descSize=20&descAlignY=60" width="100%" alt="Header banner"/> <a href="https://github.com/AstaYC"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=Hello+World!+%F0%9F%91%8B+I'm+Amine;Full-Stack+Developer+-+Java+and+Angular+%E2%98%95;I+build+RESTful+APIs+that+scale+%F0%9F%9A%80;Code+craftsman+and+problem+solver+%F0%9F%92%BB;Always+learning.+Always+shipping.+%E2%9A%A1" alt="Typing animation"/> </a> <br/>
+--> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=230&section=header&text=Mohamed%20Amine&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20-&descSize=20&descAlignY=60" width="100%" alt="Header banner"/> <a href="https://github.com/AstaYC"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=Hello+World!+%F0%9F%91%8B+I'm+Amine;Full-Stack+Developer++%E2%98%95;I+build+RESTful+APIs+that+scale+%F0%9F%9A%80;Code+craftsman+and+problem+solver+%F0%9F%92%BB;Always+learning.+Always+shipping.+%E2%9A%A1" alt="Typing animation"/> </a> <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AstaYC&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/AstaYC?label=Followers&style=for-the-badge&logo=github&color=1f6feb)
@@ -21,16 +21,12 @@
 ```java
 public class MohamedAmineBaih implements Developer {
 
-    private final String role      = "Full-Stack Developer (Java · Angular)";
+    private final String role      = "Full-Stack Developer";
     private final String school    = "YouCode | UM6P — Youssoufia, Morocco 🇲🇦";
     private final String mindset   = "Clean code. Solid architecture. Real impact.";
 
     private final String[] languages = { "Arabic (native)", "French (B2)", "English (B2)" };
     private final String[] loves     = { "Chess ♟️", "Manga 📚", "Anime 🎌", "Football ⚽" };
-
-    public void currentlyFocusedOn() {
-        learn("Spring Boot microservices", "Angular", "Docker & CI/CD", "AWS");
-    }
 
     @Override
     public String funFact() {
